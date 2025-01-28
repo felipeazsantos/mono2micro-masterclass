@@ -1,0 +1,6 @@
+-- create sequence hotel_sequence start with 1 increment by 1;
+-- insert into Hotel(id, travelOrderId, nights) values (nextval('hotel_sequence'), 1, 10);
+-- insert into Hotel(id, travelOrderId, nights) values (nextval('hotel_sequence'), 2, 4);
+-- insert into Hotel(id, travelOrderId, nights) values (nextval('hotel_sequence'), 3, 6);
+-- insert into Hotel(id, travelOrderId, nights) values (nextval('hotel_sequence'), 4, 5);
+-- insert into Hotel(id, travelOrderId, nights) values (nextval('hotel_sequence'), 5, 2);
