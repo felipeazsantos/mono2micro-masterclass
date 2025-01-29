@@ -21,7 +21,7 @@ public class TravelOrderResource {
 
     @RestClient
     @Inject
-    FlighService flighService;
+    FlightService flighService;
 
     @RestClient
     @Inject
